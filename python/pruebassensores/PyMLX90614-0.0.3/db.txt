@@ -1,0 +1,2 @@
+LOAD DATA INFILE '/tmp/tem.txt'  into table sensores  FIELDS TERMINATED BY ','  LINES TERMINATED BY '\n' (t0,TA,fv);
+

@@ -1,0 +1,8 @@
+
+Sat Feb 20 21:33:08 2021
+	<mlx90614.mlx90614.MLX90614 instance at 0xb5969940>Sat Feb 20 21:33:11 2021
+	<mlx90614.mlx90614.MLX90614 instance at 0xb5969940>Sat Feb 20 21:37:19 2021
+	<mlx90614.mlx90614.MLX90614 instance at 0xb5945940>Sat Feb 20 21:37:22 2021
+	<mlx90614.mlx90614.MLX90614 instance at 0xb5945940>Sat Feb 20 22:10:40 2021
+	<mlx90614.mlx90614.MLX90614 instance at 0xb571fa80>Sat Feb 20 22:10:43 2021
+	<mlx90614.mlx90614.MLX90614 instance at 0xb571fa80>
